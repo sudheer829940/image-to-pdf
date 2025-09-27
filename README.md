@@ -6,7 +6,7 @@ Is tool ki madad se aap apni images ko select karke unhe ek single PDF me conver
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the tool](https://sudheer829940.github.io/image-to-pdf)  
+👉 [Click here to try the tool](https://sudheer829940.github.io/image-to-pdf/)  
 
 ---
 
